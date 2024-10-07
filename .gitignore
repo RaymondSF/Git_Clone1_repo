@@ -1,0 +1,28 @@
+# Ignore files with following file extensions:
+
+*.txt
+*.doc
+*.docx
+*.jpg
+*.png
+*.pyc
+*.pyo
+_pycache_/
+*.jpeg
+*.gif
+*.exe
+*.dll
+*.bak
+*.log
+*.lock
+*.tmp
+*~
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
+
+
+# Ignore Whole folder and all it's contents
+/Screen_captures
+/node_modules
