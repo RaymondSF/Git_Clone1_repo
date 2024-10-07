@@ -1,3 +1,3 @@
 print("making the first feature")
-Pint("adding some new code")
-("second printline added")
+Print("adding some new code")
+print("second printline added")
